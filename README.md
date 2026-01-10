@@ -10,7 +10,7 @@ State-of-the-art MLLMs achieve PhD-level language reasoning but struggle with vi
 BabyVision provides two evaluation tracks:
 
 1. **MLLM Evaluation (Major)** (`babyvision_eval/`): Evaluate multimodal language models on visual reasoning tasks
-2. **Generation Evaluatio** (`babyvision_gen_eval/`): Evaluate image generation models on visual annotation tasks
+2. **Generation Evaluation** (`babyvision_gen_eval/`): Evaluate image generation models on visual annotation tasks
 
 Both tracks assess models across four visual reasoning categories:
 - **Fine-grained Discrimination**: Finding different/same elements, shadows, patterns
