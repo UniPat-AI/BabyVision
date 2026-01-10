@@ -1,4 +1,4 @@
-# BabyVision Benchmark
+# BabyVision
 
 [![Blog](https://img.shields.io/badge/Blog-Read%20More-blue)](https://unipat.ai/blog/BabyVision) [![Leaderboard](https://img.shields.io/badge/Leaderboard-View%20Results-green)](https://unipat.ai/benchmarks/BabyVision) [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://github.com/UniPat-AI/BabyVision/blob/main/BabyVision_Paper.pdf) [![HuggingFace](https://img.shields.io/badge/🤗%20BabyVision-Dataset-yellow)](https://huggingface.co/collections/UnipatAI/babyvision) 
 
@@ -152,8 +152,8 @@ Both tracks compute:
 If you use this benchmark, please cite:
 
 ```bibtex
-@misc{babyvision2026,
-  title={BabyVision: A Visual Reasoning Benchmark for Multimodal Models},
+@article{babyvision2026,
+  title={BabyVision: Visual Reasoning Beyond Language},
   year={2026}
 }
 ```
