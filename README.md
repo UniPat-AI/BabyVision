@@ -2,7 +2,7 @@
 
 <div align="center">
   <picture>
-      <img src="./assets/joint_logo.png" width="100%">
+      <img src="./assets/baby_logo.png" width="30%">
   </picture>
 </div>
 
@@ -30,11 +30,7 @@ State-of-the-art MLLMs achieve PhD-level language reasoning but struggle with vi
 
 ## Overview
 
-<div align="center">
-  <picture>
-      <img src="./assets/baby_logo.png" width="30%">
-  </picture>
-</div>
+
 
 
 BabyVision provides two evaluation tracks:
