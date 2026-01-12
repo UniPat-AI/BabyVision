@@ -1,10 +1,5 @@
 # Ignore jsonl files
 
-# Ignore image files
-*.jpg
-*.jpeg
-*.png
-
 # But keep files in content/ folder
 !data/
 !data/**
