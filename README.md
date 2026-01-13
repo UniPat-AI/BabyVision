@@ -199,9 +199,14 @@ Both tracks compute:
 If you use this benchmark, please cite:
 
 ```bibtex
-@article{babyvision2026,
-  title={BabyVision: Visual Reasoning Beyond Language},
-  year={2026}
+@misc{chen2026babyvisionvisualreasoninglanguage,
+      title={BabyVision: Visual Reasoning Beyond Language}, 
+      author={Liang Chen and Weichu Xie and Yiyan Liang and Hongfeng He and Hans Zhao and Zhibo Yang and Zhiqi Huang and Haoning Wu and Haoyu Lu and Y. charles and Yiping Bao and Yuantao Fan and Guopeng Li and Haiyang Shen and Xuanzhong Chen and Wendong Xu and Shuzheng Si and Zefan Cai and Wenhao Chai and Ziqi Huang and Fangfu Liu and Tianyu Liu and Baobao Chang and Xiaobo Hu and Kaiyuan Chen and Yixin Ren and Yang Liu and Yuan Gong and Kuan Li},
+      year={2026},
+      eprint={2601.06521},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.06521}, 
 }
 ```
 
